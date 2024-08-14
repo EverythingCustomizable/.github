@@ -8,16 +8,7 @@
 
 ## Here is our projects!
 
-[![VSCode-Custom-Css](https://github-readme-stats.vercel.app/api/pin/?username=Ryuu43&repo=VSCode-Custom-Css&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ryuu43/VSCode-Custom-Css)
-[![CS2-AHK-Bhop](https://github-readme-stats.vercel.app/api/pin/?username=Ryuu43&repo=CS2-AHK-Bhop&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ryuu43/CS2-AHK-Bhop)
-[![ScarletRed](https://github-readme-stats.vercel.app/api/pin/?username=Ryuu43&repo=ScarletRed&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ryuu43/ScarletRed)
-
+[![minimal-frape](https://github-readme-stats.vercel.app/api/pin/?username=EverythingCustomizable&repo=minimal-frape&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/EverythingCustomizable/minimal-frape)
 <p align="left">
-<a href="https://github.com/Ryuu43?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+<a href="https://github.com/orgs/EverythingCustomizable/repositories?type=source" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-
-
-<p align="left">
-<a href="https://github.com/Ryuu43?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
